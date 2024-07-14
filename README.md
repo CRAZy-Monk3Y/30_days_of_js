@@ -7,32 +7,32 @@
 | Day Number | Status     | Completed On  |
 | ---------- | ---------- | ------------- |
 | 1          | Done       | 14th Jul,2024 |
-| 2          | Incomplete |               |
-| 3          | Incomplete |               |
-| 4          | Incomplete |               |
-| 5          | Incomplete |               |
-| 6          | Incomplete |               |
-| 7          | Incomplete |               |
-| 8          | Incomplete |               |
-| 9          | Incomplete |               |
-| 10         | Incomplete |               |
-| 11         | Incomplete |               |
-| 12         | Incomplete |               |
-| 13         | Incomplete |               |
-| 14         | Incomplete |               |
-| 15         | Incomplete |               |
-| 16         | Incomplete |               |
-| 17         | Incomplete |               |
-| 18         | Incomplete |               |
-| 19         | Incomplete |               |
-| 20         | Incomplete |               |
-| 21         | Incomplete |               |
-| 22         | Incomplete |               |
-| 23         | Incomplete |               |
-| 24         | Incomplete |               |
-| 25         | Incomplete |               |
-| 26         | Incomplete |               |
-| 27         | Incomplete |               |
-| 28         | Incomplete |               |
-| 29         | Incomplete |               |
-| 30         | Incomplete |               |
+| 2          | Done       | 14th Jul,2024 |
+| 3          | Incomplete | N/A           |
+| 4          | Incomplete | N/A           |
+| 5          | Incomplete | N/A           |
+| 6          | Incomplete | N/A           |
+| 7          | Incomplete | N/A           |
+| 8          | Incomplete | N/A           |
+| 9          | Incomplete | N/A           |
+| 10         | Incomplete | N/A           |
+| 11         | Incomplete | N/A           |
+| 12         | Incomplete | N/A           |
+| 13         | Incomplete | N/A           |
+| 14         | Incomplete | N/A           |
+| 15         | Incomplete | N/A           |
+| 16         | Incomplete | N/A           |
+| 17         | Incomplete | N/A           |
+| 18         | Incomplete | N/A           |
+| 19         | Incomplete | N/A           |
+| 20         | Incomplete | N/A           |
+| 21         | Incomplete | N/A           |
+| 22         | Incomplete | N/A           |
+| 23         | Incomplete | N/A           |
+| 24         | Incomplete | N/A           |
+| 25         | Incomplete | N/A           |
+| 26         | Incomplete | N/A           |
+| 27         | Incomplete | N/A           |
+| 28         | Incomplete | N/A           |
+| 29         | Incomplete | N/A           |
+| 30         | Incomplete | N/A           |
