@@ -8,8 +8,8 @@
 | ---------- | ---------- | ------------- |
 | 1          | Done       | 14th Jul,2024 |
 | 2          | Done       | 14th Jul,2024 |
-| 3          | Incomplete | N/A           |
-| 4          | Incomplete | N/A           |
+| 3          | Done       | 19th Jul,2024 |
+| 4          | Done       | 19th Jul,2024 |
 | 5          | Incomplete | N/A           |
 | 6          | Incomplete | N/A           |
 | 7          | Incomplete | N/A           |
